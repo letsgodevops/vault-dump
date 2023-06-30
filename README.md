@@ -19,7 +19,7 @@ Replace VAULT_TOKEN and VAULT_ADDR with proper values. Vault token should have r
 
 Configuration will be stored in `./configuration` directory.
 
-List of endpoitns to be dumped:
+List of endpoints to be dumped:
 * Policies
 * Auth backends
 * Audit backends
