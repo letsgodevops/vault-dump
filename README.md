@@ -1,5 +1,16 @@
 # vault-dump
 
+## Operating system requirements
+
+* python3
+* virtualenv (instalation depends on OS - apt, yum, brew etc)
+
+Quick start on MacOS:
+```
+brew install python3
+brew install virtualenv
+```
+
 ## Setup environment
 
 ```
