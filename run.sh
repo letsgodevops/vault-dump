@@ -12,5 +12,5 @@ fi
 
 # Download reviwed version of vault-dump
 if [ ! -f "vault-dump" ]; then
-    wget -O vault-dump https://raw.githubusercontent.com/danielpops/vault-dump/326d23413803ed44b8e138582be828ce6c123ae3/vault_dump/main.py
+    wget -O vault-dump https://raw.githubusercontent.com/danielpops/vault-dump/79ed45d8c9f8bfc47393609843c789c68d496fa6/vault_dump/main.py
 fi
